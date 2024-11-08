@@ -3,3 +3,6 @@
 !.vscode/extensions.json
 .idea/
 .DS_Store
+
+build/
+/dcll/dcll
